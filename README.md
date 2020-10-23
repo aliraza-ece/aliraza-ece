@@ -12,7 +12,7 @@
  <small><strong>❯❯My website &darr;</strong></small>
  
 [
-![my website](https://media-exp1.licdn.com/dms/image/C5616AQExw6IWa2ZagQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=jywiVT8YXnD033RwlXgnYFNunnTdjWkqfX09J49Lt3s)][website]
+![my website](cover.jpg)][website]
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
