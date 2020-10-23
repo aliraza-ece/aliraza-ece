@@ -9,7 +9,7 @@
           
 </div>
  
- <small><strong>❯❯My website &darr;</strong></small>
+ <small><strong>❯❯ My website &darr;</strong></small>
  
 [
 ![my website](cover.jpg)][website]
