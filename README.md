@@ -15,9 +15,9 @@
 ![my website](https://media-exp1.licdn.com/dms/image/C5616AQExw6IWa2ZagQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1608768000&v=beta&t=jywiVT8YXnD033RwlXgnYFNunnTdjWkqfX09J49Lt3s)][website]
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
 
-</p>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonEnsemble&repo=mpn_charges)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aliraza-ece.aliraza-ece)
 [![HitCount](http://hits.dwyl.com/aliraza-ece/aliraza-ece.svg)](http://hits.dwyl.com/aliraza-ece/aliraza-ece)
