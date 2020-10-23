@@ -21,10 +21,14 @@
 
 <img align="right" alt="GIF" src="crop4.gif?raw=true"  height="320" />
 
-#### Working from home
+### ...working from home
 #
 #
-##
+#
+#
+#
+#
+#
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aliraza-ece.aliraza-ece)
 
