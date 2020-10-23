@@ -21,12 +21,12 @@
 
 <img align="right" alt="GIF" src="crop4.gif?raw=true"  height="320" />
 
-### ...working from home
+
 #
 #
 #
 #
-#
+## ...working from home
 #
 #
 
