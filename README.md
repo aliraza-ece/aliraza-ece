@@ -21,7 +21,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonEnsemble&repo=mpn_charges)](https://github.com/SimonEnsemble/mpn_charges)
 
-<img align="right" alt="GIF" src="crop4.gif?raw=true"  height="320" />
+<img align="right" alt="GIF" src="crop4.gif?raw=true"   />
 
 
 
