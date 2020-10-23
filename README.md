@@ -1,8 +1,10 @@
 
+
 <div align="left"> 
-  <p><a href="www.linkedin.com/in/hialiraza"><img alt="Linkedin @hialiraza" align="center" src="https://img.shields.io/badge/%40-HIALIRAZA-blue?logo=linkedin&style=flat-square" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
+  <p><a href="www.linkedin.com/in/hialiraza"><img alt="linkedin @hialiraza" align="center" src="https://img.shields.io/badge/%40-HIALIRAZA-blue?logo=linkedin&style=flat-square" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn</small></p>
     <p><a href="https://scholar.google.com/citations?user=SbQusV8AAAAJ&hl=en"><img alt="google scholar" align="center" src="https://img.shields.io/badge/%40-ALIRAZA-blue?logo=google-scholar&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Google Scholar</small></p> 
-  <p><a href="https://twitter.com/hi_aliraza"><img alt="Linkedin @hialiraza" align="center" src="https://img.shields.io/badge/%40-HI__ALIRAZA-blue?logo=twitter&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Twitter </small></p> 
+  <p><a href="https://twitter.com/hi_aliraza"><img alt="twitter @hialiraza" align="center" src="https://img.shields.io/badge/%40-HI__ALIRAZA-blue?logo=twitter&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Twitter </small></p> 
+  <p><a href="https://www.instagram.com/hi_aliraza/"><img alt="instagram @hi_aliraza" align="center" src="https://img.shields.io/badge/%40-HI__ALIRAZA-blue?logo=instagram&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Instagram</small></p> 
           
 </div>
  
