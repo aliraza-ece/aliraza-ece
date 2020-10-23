@@ -21,7 +21,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aliraza-ece.aliraza-ece)
 
-<img align="right" alt="GIF" src="code2.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="crop4.gif?raw=true"  height="320" />
 
 [website]: http://aliraza-ece.github.io/
 
