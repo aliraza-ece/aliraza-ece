@@ -17,7 +17,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonEnsemble&repo=mpn_charges)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonEnsemble&repo=mpn_charges)](https://github.com/SimonEnsemble/mpn_charges)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aliraza-ece.aliraza-ece)
 
