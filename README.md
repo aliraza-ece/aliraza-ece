@@ -20,7 +20,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonEnsemble&repo=mpn_charges)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aliraza-ece.aliraza-ece)
-[![HitCount](http://hits.dwyl.com/aliraza-ece/aliraza-ece.svg)](http://hits.dwyl.com/aliraza-ece/aliraza-ece)
+
 
 [website]: http://aliraza-ece.github.io/
 
