@@ -1,10 +1,9 @@
 
 
 <div align="left"> 
-  <p><a href="www.linkedin.com/in/hialiraza"><img alt="linkedin @hialiraza" align="center" src="https://img.shields.io/badge/LinkedIn-HIALIRAZA-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn</small></p>
-    <p><a href="https://scholar.google.com/citations?user=SbQusV8AAAAJ&hl=en"><img alt="google scholar" align="center" src="https://img.shields.io/badge/Google_Scholar-ALIRAZA-blue?logo=google-scholar&logoColor=white&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Google Scholar</small></p> 
-  <p><a href="https://twitter.com/hi_aliraza"><img alt="twitter @hialiraza" align="center" src="https://img.shields.io/badge/Twitter-HI__ALIRAZA-blue?logo=twitter&logoColor=white&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Twitter </small></p> 
-  <p><a href="https://www.instagram.com/hi_aliraza/"><img alt="instagram @hi_aliraza" align="center" src="https://img.shields.io/badge/Instagram-HI__ALIRAZA-blue?logo=instagram&logoColor=white&style=flat-square" /></a>&nbsp;<small> <strong>(follow)</strong> On Instagram</small></p> 
+  <p><a href="www.linkedin.com/in/hialiraza"><img alt="linkedin @hialiraza" align="center" src="https://img.shields.io/badge/LinkedIn-HIALIRAZA-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>
+    <a href="https://scholar.google.com/citations?user=SbQusV8AAAAJ&hl=en"><img alt="google scholar" align="center" src="https://img.shields.io/badge/Google_Scholar-ALIRAZA-blue?logo=google-scholar&logoColor=white&style=flat-square" /></a> <a href="https://twitter.com/hi_aliraza"><img alt="twitter @hialiraza" align="center" src="https://img.shields.io/badge/Twitter-HI__ALIRAZA-blue?logo=twitter&logoColor=white&style=flat-square" /></a> <a href="https://www.instagram.com/hi_aliraza/"><img alt="instagram @hi_aliraza" align="center" src="https://img.shields.io/badge/Instagram-HI__ALIRAZA-blue?logo=instagram&logoColor=white&style=flat-square" /></a>
+    </p> 
           
 </div>
  
