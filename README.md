@@ -15,7 +15,7 @@
 ![my website](cover.jpg)][website]
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&hide=prs,issues,contribs&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
   
 #### currently working on <br/>
 
