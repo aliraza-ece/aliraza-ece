@@ -14,9 +14,10 @@
 [
 ![my website](cover.jpg)][website]
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aliraza-ece&hide=prs,issues,contribs&show_icons=true&count_private=true&hide_border=true&custom_title=My Github Stats " alt="reisub0" /> </p>
-  
+   -->
+[![Ali Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliraza-ece&hide=prs,issues,contribs&show_icons=true&count_private=true&hide_border=true)](http://aliraza-ece.github.io/)
 #### currently working on <br/>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonEnsemble&repo=mpn_charges)](https://github.com/SimonEnsemble/mpn_charges)
